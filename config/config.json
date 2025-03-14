@@ -1,0 +1,15 @@
+{
+    "test_input_string":"to be or not to be",
+    "artifacts_path":{
+        "root_dir_name":"artifacts",
+        "model_file_name":"model.keras",
+        "tokenizer_file_name":"tokenizer.pkl"
+    },
+    "source_data":{
+        "root_dir_name":"data",
+        "file_name":"hamlet.txt"
+    },
+    "processed_dataset_paths":{
+        "root_dir_name":"data"
+    }
+}
